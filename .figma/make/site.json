@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to simulate unlocking and renting e-bikes with interactive maps, bike details, and rewards for eco-friendly choices in a mobile-first design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
